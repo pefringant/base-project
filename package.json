@@ -6,8 +6,12 @@
   "author": "Médéric Salles",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "~1.15.1",
     "express": "~4.13.4",
-    "body-parser": "~1.15.1"
+    "mocha": "^2.5.3"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
 }
