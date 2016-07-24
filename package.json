@@ -8,12 +8,15 @@
   "dependencies": {
     "body-parser": "~1.15.1",
     "express": "~4.13.4",
-    "mocha": "^2.5.3"
+    "mocha": "^2.5.3",
+    "mongodb": "^2.2.4",
+    "mongoskin": "https://registry.npmjs.org/mongoskin/-/mongoskin-2.1.0.tgz"
   },
   "private": true,
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3",
+    "mongoskin": "^2.1.0",
     "superagent": "^2.1.0"
   }
 }
